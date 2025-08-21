@@ -1,0 +1,13 @@
+//00594363 Valeria García Gómez Ingeniería en Animación Digital
+//Escribir un algoritmo que calcule el área de un triangulo
+Algoritmo SEC06
+	Definir Base, Altura Como Reales
+	
+	Escribir "Introduzca el valor de la Base: ";
+	Leer Base;
+	Escribir "Introduzca la Altura: ";
+	Leer Altura;
+	
+	Escribir "El área del triángulo es: ", [(Base * Altura)/2];
+	
+FinAlgoritmo
